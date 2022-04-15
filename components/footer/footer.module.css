@@ -1,0 +1,4 @@
+.footer {
+  @apply text-stone-700 text-lg font-semibold text-center;
+  @apply px-12 py-4 mx-auto max-w-7xl;
+}
